@@ -34,3 +34,10 @@ Note :
 - Selamat mancoba :upside_down: :ok_hand:
 
 [**Link**](https://faeest.rf.gd/card-flip)
+
+## 4. Tetod
+Lagi challange diri sendiri untuk develop game tanpa bantuan google kecuali untuk domentasi dan yang jelas running game nya. Akhir nya milih tetris untuk dibuat karena sepertinya seru. daann, ternyata susah banget +1.
+
+Dibuat se ramah mungkin untuk yang ingin meng ulik - ulik code nya maupun untuk yang mau mempelajarinya. Waktu pengerjaan nya 1 bulan sudah termasuk dengan hosting, optimalisasi, bug finding, dan membuat repo.
+
+[**Link**](https://faeest.rf.gd/tetod)
